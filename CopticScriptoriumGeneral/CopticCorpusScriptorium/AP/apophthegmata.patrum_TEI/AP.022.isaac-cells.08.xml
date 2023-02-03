@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.22.monbeg">Apophthegmata Patrum Sahidic 022: fragment</title>
+<author>anonymous</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Platte, Caroline T. Schroeder, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Caroline T. Schroeder</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="67" to="67">67-67</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 022: fragment</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 22 pp. 4-5</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.1.0" when="2021-03-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div type="textpart">
+<pb xml:id="EG67"/>
+<cb n="1"/>
+<lb n="1"/>
+<p n="1">
+<s style="…">
+<phr>
+<w lemma="ⲡⲉ" type="COP">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="2">
+<s style="But you, you are of the world, and you have no power to be in this place.">
+<phr>
+<w lemma="ⲛⲧⲟⲕ" type="PPERI">
+ⲛ̇
+<hi rend="red, tall">
+ⲧ
+</hi>
+ⲟⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲇⲉ" type="PTC" xml:lang="Greek">
+<hi rend="red, tall">
+ⲇ
+</hi>
+ⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲟⲕ" type="PPERI">
+ⲛ̇ⲧⲕ̇
+</w>
+<lb n="2"/>
+<w lemma="ⲟⲩ" type="ART">
+ⲟⲩ
+</w>
+<w lemma="ⲕⲱⲥⲙⲓⲕⲟⲛ" type="N" xml:lang="Greek">
+ⲕⲱⲥⲙⲓⲕⲟⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲙⲛ" type="EXIST">
+ⲙⲛ̇
+</w>
+<lb n="3"/>
+<w lemma="ϭⲟⲙ" type="N">
+ϭⲟⲙ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇ⲙⲟ
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERO">
+ⲕ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+·
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ
+</w>
+<w lemma="ϣⲱⲡⲉ" type="V">
+ϣ̇ⲱⲡⲉ
+</w>
+</phr>
+<lb n="4"/>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇
+</w>
+<w lemma="ⲡⲉⲓ" type="PDEM">
+ⲡⲉⲓ̈
+</w>
+<w lemma="ⲙⲁ" type="N">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲻ" type="PUNCT">
+<hi rend="red">
+ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div>
+</body>
+</text>
+</TEI>

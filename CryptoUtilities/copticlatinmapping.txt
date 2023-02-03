@@ -1,0 +1,17 @@
+# THIS FUNCTION REPLACES CHARACTERS FROM COPTIC INTO LATIN, OR FROM LATIN TO COPTIC IF THE BOOLEAN PARAMETER "REVERSE" IS SET TO TRUE
+
+def copticreplace(file, reverse = False):
+    e = open(file, "rt", encoding="utf-8")
+    #output file to write the result to
+    eg = open(str(file).replace('.txt', '')+str(reverse)+"reverse.txt", "wt",  encoding="utf-8")
+    #for each line in the input file 
+    if reverse == True:
+        for line in e:    #ⲈⲞⲨⲚⲀⲒϨⲤⲰⲘⲠⲢⲖⲎϤϪϢⲂϮⲆϦⲔⲐⲬⲄⲪϬⲌ
+	        #read replace the string and write to output file
+            eg.write(line.replace('a', 'Ⲁ').replace('b', 'Ⲃ').replace('c', 'Ⲥ').replace('d', 'Ⲇ').replace('e', 'Ⲉ').replace('f', 'Ⲫ').replace('g', 'Ⲅ').replace('i', 'Ⲓ').replace('l', 'Ⲗ').replace('m', 'Ⲙ').replace('n', 'Ⲛ').replace('o', 'Ⲟ').replace('p', 'Ⲡ').replace('q', 'Ϭ').replace('r', 'Ⲣ').replace('t', 'Ϯ').replace('u', 'Ϫ').replace('v', 'Ϥ').replace('s', 'Ϩ').replace('w', 'Ⲱ').replace('z', 'Ⲍ').replace('h', 'Ⲏ').replace('x', 'Ⲭ').replace('y', 'Ⲩ').replace('8','Ϣ').replace('7','Ϧ').replace('k','Ⲕ').replace('9','Ⲑ')) 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+    else:
+        for line in e:
+	        #read replace the string and write to output file
+            eg.write(line.replace('Ⲁ','a').replace('Ⲃ', 'b').replace('Ⲥ', 'c').replace('Ⲇ','d').replace('Ⲉ','e').replace('Ⲫ','f').replace('Ⲅ','g').replace('Ⲓ','i').replace('Ⲗ','l').replace('Ⲙ', 'm').replace('Ⲛ','n').replace('Ⲟ','o').replace('Ⲡ','p').replace('Ϭ','q').replace('Ⲣ','r').replace('Ϯ','t').replace('Ϫ', 'u').replace('Ϥ', 'v').replace('Ϩ', 's').replace('Ⲱ', 'w').replace('Ⲍ', 'z').replace('Ⲏ', 'h').replace('Ⲭ', 'x').replace('Ⲩ', 'y').replace('Ϣ','8').replace('Ϧ','7').replace('Ⲕ','k').replace('Ⲑ','9'))
+    e.close()
+    eg.close()

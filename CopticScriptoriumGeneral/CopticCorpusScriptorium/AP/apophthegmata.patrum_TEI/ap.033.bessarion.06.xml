@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.33.monbeg">Apophthegmata Patrum Sahidic 033</title>
+<author>anonymous</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Davidson, Amir Zeldes, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Elizabeth Davidson</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="73" to="73">73-73</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 033</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960)</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.4.0" when="2022-09-26"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div type="textpart">
+<p n="1">
+<pb xml:id="EG73"/>
+<cb n="1"/>
+<s style="Apa Bessarion said, 'I spent forty nights in the middle of a thornbush, standing without lying down.'">
+<lb n="8"/>
+<phr>
+<w lemma="ⲁ" type="APST">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+<w lemma="ϫⲱ" type="V">
+ϫⲟⲟ̇
+</w>
+<w lemma="ⲛⲧⲟⲥ" type="PPERO">
+ⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛϭⲓ" type="PTC">
+ⲛ̇ϭⲓ̇
+</w>
+<w lemma="ⲁⲡⲁ" type="N" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲃⲏⲥⲁⲣⲓⲟⲛ" type="NPROP" xml:lang="Greek">
+ⲃⲏⲥⲁ
+<lb n="9"/>
+ⲣⲓⲟⲛ
+</w>
+</phr>
+<phr>
+<w lemma="," type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲁ" type="APST">
+ⲁ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ⲓ̇
+</w>
+<w lemma="ⲉⲓⲣⲉ" type="V">
+ⲣ̇
+</w>
+<w lemma="ϩⲙⲉ" type="NUM">
+ϩ̇ⲙⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ
+</w>
+<w lemma="ⲟⲩϣⲏ" type="N">
+ⲟⲩ
+<lb n="10"/>
+ϣⲏ
+</w>
+</phr>
+<phr>
+<w lemma="ϩⲛ" type="PREP">
+ϩⲛ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲧ̇
+</w>
+<w lemma="ⲙⲏⲧⲉ" type="N">
+ⲙⲏⲧⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ⲟⲩ
+</w>
+<lb n="11"/>
+<w lemma="ϩⲣⲁⲙⲛⲟⲥ" type="N" xml:lang="Greek">
+ϩ̇ⲣⲁⲙⲛⲟⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲣⲉ" type="CCIRC">
+ⲉ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ⲓ̇
+</w>
+<w lemma="ⲱϩⲉ" type="V">
+ⲁϩⲉ
+</w>
+<w lemma="ⲣⲁⲧ_ⲁⲛⲟⲕ" type="N_PPERO">
+ⲣⲁⲧ
+</w>
+</phr>
+<lb n="12"/>
+<phr>
+<w lemma="ⲙⲡⲉ" type="ANEGPST">
+ⲙ̇ⲡ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ⲓ̇
+</w>
+<w lemma="ⲛⲕⲟⲧⲕ" type="V">
+ⲛ̇ⲕⲟⲧⲕ̇
+</w>
+</phr>
+<phr>
+<w lemma="·ⲻ" type="PUNCT">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div>
+</body>
+</text>
+</TEI>

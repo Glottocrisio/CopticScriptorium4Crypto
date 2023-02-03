@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.23.monbeg">Apophthegmata Patrum Sahidic 023: Isaac</title>
+<author>anonymous</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Lauren McDermott, Caroline T. Schroeder, Amir Zeldes, Elizabeth Davidson</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="67" to="67">67-67</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 023: Isaac</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 23 (Fragments de Vienne),pp. 4-5</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.4.0" when="2022-09-26"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div type="textpart">
+<pb xml:id="EG67"/>
+<cb n="1"/>
+<p n="1">
+<lb n="5"/>
+<s style="He said, that is Abba Isaac:">
+<phr>
+<w lemma="ⲁ" type="APST">
+<hi rend="red, tall">
+ⲁ︤
+</hi>
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+<w lemma="ϫⲱ" type="V">
+ϫⲟⲟ
+</w>
+<w lemma="ⲛⲧⲟⲥ" type="PPERO">
+ⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛϭⲓ" type="PTC">
+ⲛ̇ϭⲓ̇
+</w>
+<w lemma="ⲁⲡⲁ" type="N">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲓⲥⲁⲕ" type="NPROP">
+ⲓ̇ⲥⲁⲕ
+</w>
+</phr>
+</s>
+<s style="“Our fathers and Abba Pambo would wear tunics of rags in pieces and tunics of palm fiber,">
+<lb n="6"/>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲡⲉⲛ" type="PPOS">
+ⲛⲉⲛ
+</w>
+<w lemma="ⲉⲓⲱⲧ" type="N">
+ⲉⲓ̇ⲟ̇ⲧⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲙⲛ" type="PREP">
+ⲙⲉⲛ
+</w>
+<lb n="7"/>
+<w lemma="ⲁⲡⲁ" type="N">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲁⲙⲃⲱ" type="NPROP">
+ⲡⲁⲙⲃⲱ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲉⲣⲉ" type="CPRET">
+ⲛⲉ
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲩ
+</w>
+<w lemma="ⲫⲟⲣⲉⲓ" type="V" xml:lang="Greek">
+ⲫⲟ
+<lb n="8"/>
+ⲣⲉⲓ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ϩⲉⲛ
+</w>
+<w lemma="ϣⲧⲏⲛ" type="N">
+ϣ̇ⲧⲏⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇
+</w>
+<lb n="9"/>
+<w lemma="ⲡⲉⲗϭⲉ" type="N">
+ⲡⲉⲗϭⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉ̇
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲩ
+</w>
+<w lemma="ϩⲛ" type="PREP">
+ϩⲛ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲛ̇
+</w>
+<w lemma="ⲧⲟⲉⲓⲥ" type="N">
+ⲧⲟⲉⲓ̇ⲥ
+</w>
+</phr>
+<lb n="10"/>
+<phr>
+<w lemma="ⲙⲛ" type="PREP">
+ⲙⲛ̇
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ϩⲛ̇
+</w>
+<w lemma="ϣⲧⲏⲛ" type="N">
+ϣ̇ⲧⲏⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ϣⲃⲛⲛⲉ" type="N">
+ϣ̇
+<lb n="11"/>
+ⲃⲛ̇ⲛⲉ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+.
+</hi>
+</w>
+</phr>
+</s>
+<s style="but you now you wear adorned tunics.">
+<phr>
+<w lemma="ⲛⲧⲱⲧⲛ" type="PPERI">
+ⲛ̇ⲧⲱⲧⲛ̇
+</w>
+</phr>
+<lb n="12"/>
+<phr>
+<w lemma="ⲇⲉ" type="PTC">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲧⲉⲛⲟⲩ" type="ADV">
+ⲧⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲱⲧⲛ" type="PPERS">
+ⲧⲉⲧⲛ̇
+</w>
+<w lemma="ⲫⲟⲣⲉⲓ" type="V" xml:lang="Greek">
+ⲫⲟ
+<lb n="13"/>
+ⲣⲉⲓ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ϩⲛ̇
+</w>
+<w lemma="ϣⲧⲏⲛ" type="N">
+ϣ̇ⲧⲏⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉ̇
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲩ
+</w>
+<lb n="14"/>
+<w lemma="ⲧⲁⲉⲓⲟ" type="VSTAT">
+ⲧⲁⲉⲓ̇ⲏⲩ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="2">
+<s style="Go from this place,">
+<phr>
+<w lemma="ⲃⲱⲕ" type="V">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲱⲧⲛ" type="PPERI">
+ⲛ̇ⲧⲱ
+<lb n="15"/>
+ⲧⲛ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇
+</w>
+<w lemma="ⲡⲉⲓ" type="PDEM">
+ⲡⲉⲓ̇
+</w>
+<w lemma="ⲙⲁ" type="N">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+·
+</w>
+</phr>
+</s>
+</p>
+<p n="3">
+<s style="you have ruined it.”">
+<phr>
+<w lemma="ⲁ" type="APST">
+ⲁ̇
+</w>
+<w lemma="ⲛⲧⲱⲧⲛ" type="PPERS">
+ⲧⲉ
+<lb n="16"/>
+ⲧⲛ̇
+</w>
+<w lemma="ⲧⲁⲕⲟ" type="V">
+ⲧⲁⲕⲟ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+.ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div>
+</body>
+</text>
+</TEI>

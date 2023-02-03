@@ -1,0 +1,887 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.27.monbeg">Apophthegmata Patrum Sahidic 027: Pistamon 1</title>
+<author>anonymous</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Davidson, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Elizabeth Davidson</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="67" to="68">67-68</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 027: Pistamon 1</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960)</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div type="textpart">
+<pb xml:id="EG67"/>
+<cb n="2"/>
+<p n="1">
+<s style="One of the brothers asked Apa Pistamon, 'What should I do? For it worries me when I sell my handiwork.'">
+<lb n="14"/>
+<phr>
+<w lemma="ⲁ" type="APST">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲟⲩⲁ" type="NUM">
+ⲟⲩⲁ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲛⲉ
+</w>
+<w lemma="ⲥⲟⲛ" type="N">
+ⲥⲛⲏⲩ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲛⲟⲩ" type="V">
+ϫ̇ⲛⲉ
+</w>
+<lb n="15"/>
+<w lemma="ⲁⲡⲁ" type="N" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲁⲥⲧⲁⲙⲱⲛ" type="NPROP">
+ⲡⲁ̇ⲥⲧⲁⲙⲱⲛ
+</w>
+</phr>
+<lb n="16"/>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲟⲩ" type="PINT">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲉ" type="COP">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ϯ̇
+</w>
+<w lemma="ⲛⲁ" type="FUT">
+ⲛⲁ
+</w>
+<w lemma="ⲉⲓⲣⲉ" type="V">
+ⲁ̇ⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<lb n="17"/>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲥⲉ
+</w>
+<w lemma="ⲑⲗⲓⲃⲉ" type="V" xml:lang="Greek">
+ⲑ̇ⲗⲓ̇ⲃⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇ⲙⲟ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERO">
+ⲓ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲣⲉ" type="CCIRC">
+ⲉ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ⲓ̇
+</w>
+<w lemma="ϯ" type="V">
+ϯ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇
+</w>
+<lb n="18"/>
+<w lemma="ⲡⲁ" type="PPOS">
+ⲡⲁ
+</w>
+<w lemma="ϩⲱⲃ" type="N">
+ϩⲱⲃ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ϭⲓϫ" type="N">
+ϭⲓ̇ϫ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲃⲟⲗ" type="ADV">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="2">
+<s style="The old man answered him, 'Even Apa Sisoes and the others used to sell their handiwork. ">
+<lb n="19"/>
+<phr>
+<w lemma="ⲁ" type="APST">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+<w lemma="ⲟⲩⲱϣⲃ" type="V">
+ⲟⲩⲱ̇ϣⲃ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛϭⲓ" type="PTC">
+ⲛ̇ϭⲓ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ϩⲗⲗⲟ" type="N">
+ϩ̇ⲗ
+<lb n="20"/>
+ⲗⲟ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲉϫⲉ" type="VBD">
+ⲡⲉϫⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲡ" type="ART">
+ⲡ̇
+</w>
+<w lemma="ⲕⲉ" type="N">
+ⲕⲉ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+·
+</w>
+</phr>
+<lb n="21"/>
+<phr>
+<w lemma="ⲁⲡⲁ" type="N" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲓϫⲱⲓ" type="NPROP">
+ϫⲓ̇ϫⲱⲓ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red 1_space_right">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲙⲛ" type="PREP">
+ⲙ̇ⲛ
+</w>
+<lb n="22"/>
+<w lemma="ⲡ" type="ART">
+ⲡ̇
+</w>
+<w lemma="ⲕⲉ" type="ART">
+ⲕⲉ
+</w>
+<w lemma="ⲥⲉⲉⲡⲉ" type="N">
+ⲥⲉⲉ̇ⲡⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ϣⲁⲣⲉ" type="AAOR">
+ϣⲁ
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲩ
+</w>
+<w lemma="ϯ" type="V">
+ϯ̇
+</w>
+<w lemma="ⲡⲉⲩ" type="PPOS">
+ⲡⲉⲩ
+</w>
+<lb n="23"/>
+<w lemma="ϩⲱⲃ" type="N">
+ϩⲱⲃ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ϭⲓϫ" type="N">
+ϭⲓϫ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲃⲟⲗ" type="ADV">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+·
+</w>
+</phr>
+</s>
+</p>
+<p n="3">
+<s style="This is not damaging.">
+<phr>
+<w lemma="ⲡⲁⲓ" type="PDEM">
+ⲡⲁⲓ̇
+</w>
+</phr>
+<lb n="24"/>
+<phr>
+<w lemma="ⲛ" type="NEG">
+ⲛ
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ⲟⲩ
+</w>
+<w lemma="ⲟⲥⲉ" type="N">
+ⲟ̇ⲥⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲁⲛ" type="NEG">
+ⲁ̇ⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲉ" type="COP">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="4">
+<s style="But if you sell, say the price of the item only once.">
+<lb n="25"/>
+<phr>
+<w lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ" type="ACOND_PPERS">
+<hi rend="large red ekthetic">
+Ⲉ
+</hi>
+ⲕϣⲁⲛ
+</w>
+<w lemma="ⲛⲟⲩ" type="V">
+ⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w lemma="ⲇⲉ" type="PTC" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ̇
+</w>
+<w lemma="ϯ" type="V">
+ϯ̇
+</w>
+</phr>
+<lb n="26"/>
+<phr>
+<w lemma="ϫⲱ" type="VIMP">
+ⲁ̇ϫⲓ̇̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲧ̇
+</w>
+<w lemma="ϯⲙⲏ" type="N">
+ϯ̇ⲙⲏ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ⲟⲩ̇
+</w>
+<w lemma="ⲥⲟⲡ" type="N">
+ⲥⲟⲡ
+</w>
+</phr>
+<lb n="27"/>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ
+</w>
+<w lemma="ⲟⲩⲱⲧ" type="N">
+ⲟⲩⲱ̇ⲧ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲉ" type="PREP">
+ⲛⲧⲉ
+</w>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ⲉⲓⲇⲟⲥ" type="N" xml:lang="Greek">
+ⲓ̇ⲇⲟⲥ
+</w>
+</phr>
+</s>
+</p>
+<p n="5">
+<s style=" If you want to lower the price a little, that is up to you. In this way you will find peace.">
+<lb n="28"/>
+<phr>
+<w lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ" type="ACOND_PPERS">
+<hi rend="large red ekthetic">
+Ⲉ
+</hi>
+ⲕϣⲁⲛ
+</w>
+<w lemma="ⲟⲩⲱϣ" type="V">
+ⲟⲩⲱ̇ϣ
+</w>
+</phr>
+<phr>
+<w lemma="ⲇⲉ" type="PTC" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ̇
+</w>
+<lb n="29"/>
+<w lemma="ⲕⲱ" type="V">
+ⲕⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲟⲩ" type="ART">
+ⲟⲩ
+</w>
+<w lemma="ⲕⲟⲩⲓ" type="N">
+ⲕⲟⲩⲓ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲃⲟⲗ" type="ADV">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w lemma="ϩⲛ" type="PREP">
+ϩⲛ̇
+</w>
+<lb n="30"/>
+<w lemma="ⲥⲟⲩⲉⲛ" type="N">
+ⲥⲟⲩⲛ̇ⲧ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ̇
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red 1_space_right">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲟⲕ" type="PPERI">
+ⲛ̇ⲧⲟⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉ̇ⲧ
+</w>
+<lb n="31"/>
+<w lemma="ⲧⲱϣ" type="V">
+ⲧⲱϣ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red 1_space_right">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲁⲓ" type="PDEM">
+ⲧⲁⲓ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲉ" type="COP">
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲧ
+</w>
+<w lemma="ϩⲉ" type="N">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉ̇
+</w>
+<lb n="32"/>
+<w lemma="ⲛⲧⲟⲕ" type="PPERS">
+ⲧⲉⲕ
+</w>
+<w lemma="ⲛⲁ" type="FUT">
+ⲛⲁ
+</w>
+<w lemma="ϭⲛⲙⲧⲟⲛ" type="V">
+<m>
+ϭⲛ̇
+</m>
+<m>
+ⲙ̇ⲧⲟⲛ
+</m>
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="6">
+<s style="The brother said to him, 'If I have what I need, do you still want me to be concerned with my handiwork?'">
+<lb n="33"/>
+<phr>
+<w lemma="ⲡⲉϫⲉ" type="VBD">
+<hi rend="large red ekthetic">
+Ⲡ
+ⲉϫⲉ
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲡ̇
+</w>
+<w lemma="ⲥⲟⲛ" type="N">
+ⲥⲟⲛ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲉϣⲱⲡⲉ" type="CONJ">
+ⲉ
+<lb n="34"/>
+ϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲟⲩⲛⲧⲉ" type="EXIST">
+ⲟⲩⲛ̇ⲧⲁ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERO">
+ⲓ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲁ" type="PPOS">
+ⲧⲁ
+</w>
+<lb n="35"/>
+<w lemma="ⲭⲣⲉⲓⲁ" type="N" xml:lang="Greek">
+ⲭ̇ⲣⲓ̇ⲁ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲙⲙⲁⲩ" type="ADV">
+ⲙ̇ⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲟⲕ" type="PPERS">
+ⲕ
+</w>
+<w lemma="ⲟⲩⲱϣ" type="V">
+ⲟⲩ
+<lb n="36"/>
+ⲱ̇ϣ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ
+</w>
+<w lemma="ⲧⲙ" type="NEG">
+ⲧⲙ̇
+</w>
+<w lemma="ⲧⲣ" type="ACAUS">
+ⲧ̇ⲣ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ⲁ
+</w>
+<w lemma="ϥⲉⲓⲣⲟⲟⲩϣ" type="V">
+<m>
+ϥⲉⲓ̇
+</m>
+<lb n="37"/>
+<m>
+ⲣⲟⲟⲩϣ̇
+</m>
+</w>
+</phr>
+<phr>
+<w lemma="ϩⲁ" type="PREP">
+ϩⲁ
+</w>
+<w lemma="ϩⲱⲃ" type="N">
+ϩⲱⲃ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ϭⲓϫ" type="N">
+ϭⲓ̇ϫ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="7">
+<s style="The old man answered, 'Even if you have everything, do not give up on your handiwork. ">
+<lb n="38"/>
+<phr>
+<w lemma="ⲁ" type="APST">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+<w lemma="ⲟⲩⲱϣⲃ" type="V">
+ⲟⲩⲱ̇ϣⲃ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛϭⲓ" type="PTC">
+ⲛ̇ϭⲓ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲡ̇
+</w>
+<w lemma="ϩⲗⲗⲟ" type="N">
+ϩⲗ
+<lb n="39"/>
+ⲗⲟ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲕⲁⲛ" type="CONJ" xml:lang="Greek">
+ⲕⲁⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲟⲩⲛⲧⲉ" type="EXIST">
+ⲟⲩⲛ̇ⲧⲁ
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERO">
+ⲕ
+</w>
+</phr>
+<lb n="40"/>
+<phr>
+<w lemma="ϩⲱⲃ" type="N">
+ϩⲱⲃ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲓⲙ" type="PINT">
+ⲛⲓ̇ⲙ
+</w>
+</phr>
+<phr>
+<w lemma="ⲙⲡⲣ" type="NEG">
+ⲙ̇ⲡⲣ̇
+</w>
+<w lemma="ⲕⲱ" type="V">
+ⲕⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲡ̇
+</w>
+<pb xml:id="EG68"/>
+<cb n="1"/>
+<lb n="1"/>
+<w lemma="ϩⲱⲃ" type="N">
+ϩⲱ
+<hi rend="large red">
+Ⲃ
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ
+</w>
+<w lemma="ϭⲓϫ" type="N">
+Ϭⲓ̇ϫ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲃⲟⲗ" type="ADV">
+ⲉ̇
+<hi rend="large red">
+Ⲃ
+</hi>
+ⲟ
+<hi rend="large red">
+Ⲗ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+<p n="8">
+<s style="Whatever you are able to do, do it—just don't worry about it.'">
+<lb n="2"/>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉⲧⲉ
+</w>
+<w lemma="ⲟⲩⲛ" type="EXIST">
+ⲟⲩⲛ̇
+</w>
+<w lemma="ϭⲟⲙ" type="N">
+ϭⲟⲙ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇ⲙⲟ
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERO">
+ⲕ
+</w>
+</phr>
+<lb n="3"/>
+<phr>
+<w lemma="ⲉⲣⲉ" type="CCIRC">
+ⲉ̇
+</w>
+<w lemma="ⲉⲓⲣⲉ" type="V">
+ⲁ̇ⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲓⲣⲉ" type="VIMP">
+ⲁ̇ⲣⲓ̈
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="—" type="PUNCT">
+<hi rend="red 1_space_right">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲙⲱⲛⲟⲛ" type="ADV" xml:lang="Greek">
+ⲙⲱⲛⲟⲛ
+</w>
+</phr>
+<lb n="4"/>
+<phr>
+<w lemma="ϩⲛ" type="PREP">
+ϩⲛ̇
+</w>
+<w lemma="ⲟⲩ" type="ART">
+ⲟⲩ
+</w>
+<w lemma="ϣⲧⲟⲣⲧⲣ" type="N">
+ϣ̇ⲧⲟⲣⲧ̇ⲣ
+</w>
+</phr>
+<phr>
+<w lemma="ⲁⲛ" type="NEG">
+ⲁ̇ⲛ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div>
+</body>
+</text>
+</TEI>

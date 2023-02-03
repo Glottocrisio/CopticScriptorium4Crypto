@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.30.monbeg">Apophthegmata Patrum Sahidic 030</title>
+<author>anonymous</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Davidson, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Elizabeth Davidson</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="68" to="68">68-68</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 030</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960)</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.4.0" when="2022-09-26"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div type="textpart">
+<pb xml:id="EG68"/>
+<p n="1">
+<s style="Apa Hyperechios said, 'The monk's treasure is not having any material things.">
+<cb n="1"/>
+<lb n="40"/>
+<phr>
+<w lemma="ⲁ" type="APST">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+<w lemma="ϫⲱ" type="V">
+ϫⲟⲟ̇
+</w>
+<w lemma="ⲛⲧⲟⲥ" type="PPERO">
+ⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛϭⲓ" type="PTC">
+ⲛ̇ϭⲓ̇
+</w>
+<w lemma="ⲁⲡⲁ" type="N" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ϩⲩⲡⲉⲣⲉⲭⲓⲟⲥ" type="NPROP" xml:lang="Greek">
+ϩⲩⲡⲉ
+<lb n="41"/>
+ⲣⲉⲭⲓ̇ⲟⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ⲁϩⲟ" type="N">
+ⲁϩⲟ
+</w>
+</phr>
+<lb n="42"/>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲡ̇
+</w>
+<w lemma="ⲙⲟⲛⲁⲭⲟⲥ" type="N" xml:lang="Greek">
+ⲙⲟⲛⲁⲭⲟⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲉ" type="COP">
+ⲡⲉ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲧⲙ" type="NEG">
+ⲧⲙ
+</w>
+<cb n="2"/>
+<lb n="1"/>
+<w lemma="ϫⲡⲟ" type="V">
+ϫ̇ⲡⲉ
+</w>
+<w lemma="ⲗⲁⲁⲩ" type="N">
+<hi rend="large red">
+Ⲗ
+</hi>
+ⲁⲁ
+<hi rend="large red">
+Ⲩ
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ϩⲩⲗⲏ" type="N" xml:lang="Greek">
+ϩ
+<hi rend="large red">
+Ⲩ
+</hi>
+ⲗⲏ
+</w>
+</phr>
+<lb n="2"/>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERO">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+·
+</w>
+</phr>
+</s>
+</p>
+<p n="2">
+<s style="Store and gather for yourself in heaven, ">
+<phr>
+<w lemma="ⲱⲧⲡ" type="V">
+ⲱ̇ⲧⲡ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERO">
+ⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉϩⲟⲩⲛ" type="ADV">
+ⲉ
+<lb n="3"/>
+ϩⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w lemma="ⲁⲩⲱ" type="CONJ">
+ⲁⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲧⲉ" type="ACONJ">
+ⲛ̇
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERS">
+ⲅ̇
+</w>
+<w lemma="ⲥⲱⲟⲩϩ" type="V">
+ⲥⲱⲟⲩϩ̇
+</w>
+</phr>
+<lb n="4"/>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERO">
+ⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉϩⲟⲩⲛ" type="ADV">
+ⲉ̇ϩⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ϩⲛ" type="PREP">
+ϩⲛ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲙ̇
+</w>
+<w lemma="ⲡⲉ" type="N">
+ⲡⲏⲩⲉ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+<s style="for there is unceasing rest for you forever.'">
+<lb n="5"/>
+<phr>
+<w lemma="ⲟⲩ" type="ART">
+<hi rend="large red ekthetic">
+Ⲟ
+</hi>
+ⲩ
+</w>
+<w lemma="ⲁⲧⲟⲩⲱ" type="N">
+<m>
+ⲁ̇ⲧ
+</m>
+<m>
+ⲟⲩⲱ̇
+</m>
+</w>
+</phr>
+<phr>
+<w lemma="ⲅⲁⲣ" type="PTC" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟⲕ" type="PPERO">
+ⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡⲉ" type="COP">
+ⲡⲉ
+</w>
+</phr>
+<lb n="6"/>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ⲙⲧⲟⲛ" type="N">
+ⲙ̇ⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̇
+</w>
+<w lemma="ϣⲁ" type="PREP">
+ϣⲁ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲛⲉϩ" type="ADV">
+ⲉ̇ⲛⲉϩ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div>
+</body>
+</text>
+</TEI>

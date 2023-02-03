@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:shenoute.eagerness.monbgl_29">I See Your Eagerness: GL 29</title>
+<author>Shenoute</author>
+<respStmt>
+<resp>source</resp>
+<name>David Brakke, Stephen Emmel</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Rebecca Krawiec, Caroline T. Schroeder, David Sriboonreuang, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>none</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.GL</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 9322</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.GL" from="29" to="29">29-29</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>I See Your Eagerness: GL 29</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>none</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<pb xml:id="GL29"/>
+<cb n="1"/>
+<p>
+<s style="…">
+<lb n="1"/>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ
+</w>
+<w lemma="ⲟⲩⲟⲉⲓϣ" type="N">
+ⲟⲩⲟⲉⲓ̈ϣ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲓⲙ" type="PINT">
+ⲛⲓ̈ⲙ
+</w>
+</phr>
+<lb n="2"/>
+<phr>
+<w lemma="ⲁⲩⲱ" type="CONJ">
+<hi rend="ekthetic large">
+ⲁ
+</hi>
+ⲩⲱ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉⲧ
+</w>
+<w lemma="ⲱϭⲉ" type="V">
+ⲱϭⲉ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+·
+</w>
+</phr>
+</s>
+</p>
+<p>
+<s style="…">
+<phr>
+<w lemma="ⲏ" type="CONJ" xml:lang="Greek">
+ⲏ̄
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ
+</w>
+<lb n="3"/>
+<w lemma="ϫⲓ" type="V">
+ϫⲓ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉϩⲟⲩⲛ" type="ADV">
+ⲉϩⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉⲣⲟ
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERO">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲛ̄
+</w>
+<lb n="4"/>
+<w lemma="ⲟⲩ" type="ART">
+ϩⲉⲛ
+</w>
+<w lemma="ⲣⲱⲙⲉ" type="N">
+ⲣⲱⲙⲉ
+</w>
+</phr>
+<phr>
+<w lemma="·" type="PUNCT">
+·
+</w>
+</phr>
+</s>
+<s style="…">
+<phr>
+<w lemma="ⲉⲣⲉ" type="CCIRC">
+ⲉ
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲩ
+</w>
+<w lemma="ⲛⲁ" type="FUT">
+ⲛⲁ
+</w>
+<lb n="5"/>
+<w lemma="ⲥⲟⲟⲩⲛ" type="V">
+ⲥⲟⲩⲛ
+</w>
+<w lemma="ⲡ" type="ART">
+ⲧⲉ
+</w>
+<w lemma="ⲭⲁⲣⲓⲥ" type="N" xml:lang="Greek">
+ⲭⲁⲣⲓⲥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛ" type="PREP">
+ⲙ̄
+</w>
+<lb n="6"/>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ⲉⲧⲉⲣⲉ" type="CREL">
+ⲉⲛⲧ
+</w>
+<w lemma="ⲁ" type="APST">
+ⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+<w lemma="ϯⲉⲟⲟⲩ" type="V">
+<m>
+ϯ
+</m>
+<m>
+ⲉⲟⲟⲩ
+</m>
+</w>
+</phr>
+<lb n="7"/>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERO">
+ⲩ
+</w>
+</phr>
+<phr>
+<w lemma="ⲡ" type="ART">
+ⲡⲉ
+</w>
+</phr>
+</s>
+</p>
+</body>
+</text>
+</TEI>

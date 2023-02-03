@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.24.monbeg">Apophthegmata Patrum Sahidic 024: Isaac</title>
+<author>anonymous</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Lauren McDermott, Caroline T. Schroeder, Amir Zeldes, Elizabeth Davidson</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="67" to="67">67-67</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 024: Isaac</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 24 (Fragments de Vienne),p. 5</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div type="textpart">
+<p n="1">
+<s style="Then as they were about to go to the harvest he said to them:">
+<lb n="17"/>
+<phr>
+<w lemma="ⲉⲣⲉ" type="CCIRC">
+<hi rend="red tall large ekthetic">
+Ⲉ︤
+</hi>
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERS">
+ⲩ
+</w>
+<w lemma="ⲛⲁ" type="FUT">
+ⲛⲁ
+</w>
+<w lemma="ⲃⲱⲕ" type="V">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲇⲉ" type="PTC" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ̇
+</w>
+<w lemma="ⲡ" type="ART">
+ⲡ
+</w>
+<w lemma="ⲱϩⲥ" type="N">
+ⲱϩⲥ̇
+</w>
+</phr>
+<lb n="18"/>
+<phr>
+<w lemma="ⲡⲉϫⲉ" type="VBD">
+ⲡⲉϫⲁ
+</w>
+<w lemma="ⲛⲧⲟϥ" type="PPERS">
+ϥ
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲁ
+</w>
+<w lemma="ⲛⲧⲟⲟⲩ" type="PPERO">
+ⲩ̇
+</w>
+</phr>
+</s>
+</p>
+<p n="2">
+<s style="“I’m not going to repeat and give you an order again,">
+<phr>
+<w lemma="ϫⲉ" type="CONJ">
+ϫⲉ
+</w>
+<w lemma="ⲛ" type="NEG">
+ⲛ̇
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERS">
+ϯ̇
+</w>
+<lb n="19"/>
+<w lemma="ⲛⲁ" type="FUT">
+ⲛⲁ
+</w>
+<w lemma="ⲃⲱⲕ" type="V">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w lemma="ⲁⲛ" type="NEG">
+ⲁ̇ⲛ
+</w>
+</phr>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ̇
+</w>
+<w lemma="ⲕⲱⲧ" type="V">
+ⲕⲟⲧ
+</w>
+<w lemma="ⲁⲛⲟⲕ" type="PPERO">
+ⲧ̇
+</w>
+</phr>
+<lb n="20"/>
+<phr>
+<w lemma="ⲉ" type="PREP">
+ⲉ̇
+</w>
+<w lemma="ϯⲛⲧⲟⲗⲏ" type="V">
+<m>
+ϯ̇
+</m>
+<m xml:lang="Greek">
+ⲛ̇ⲧⲟⲗⲏ
+</m>
+</w>
+</phr>
+<phr>
+<w lemma="ⲛⲁ" type="PREP">
+ⲛⲏ
+</w>
+<w lemma="ⲛⲧⲱⲧⲛ" type="PPERO">
+ⲧⲛ̇
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+·
+</w>
+</phr>
+</s>
+<lb n="21"/>
+<s style="after all, you don’t observe them.”">
+<phr>
+<w lemma="ⲛ" type="NEG">
+ⲛ̇
+</w>
+<w lemma="ⲛⲧⲱⲧⲛ" type="PPERS">
+ⲧⲉⲧⲛ̇
+</w>
+</phr>
+<phr>
+<w lemma="ϩⲁⲣⲉϩ" type="V">
+ϩⲁⲣⲉϩ
+</w>
+</phr>
+<phr>
+<w lemma="ⲅⲁⲣ" type="PTC" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w lemma="ⲁⲛ" type="NEG">
+ⲁ̇ⲛ
+</w>
+</phr>
+<phr>
+<w lemma="." type="PUNCT">
+·
+</w>
+</phr>
+</s>
+</p>
+</div>
+</body>
+</text>
+</TEI>
